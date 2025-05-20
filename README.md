@@ -29,14 +29,14 @@ O banco de dados será criado automaticamente como crud_usuarios.bd no mesmo dir
 
 # 🗃️ Estrutura da Tabela
 O projeto cria automaticamente a tabela usuarios com os seguintes campos:
-
+```
 CREATE TABLE IF NOT EXISTS usuarios (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     nome TEXT NOT NULL,
     idade INTEGER NOT NULL
 );
-
-Cada usuário possui:
+```
+# Cada usuário possui:
 
 id: Identificador único (gerado automaticamente)
 
