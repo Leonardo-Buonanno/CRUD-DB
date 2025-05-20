@@ -24,7 +24,7 @@ Este projeto é uma aplicação de **CRUD (Create, Read, Update, Delete)** desen
 
 ```bash
 python crud_sqlite.py 
-
+```
 O banco de dados será criado automaticamente como crud_usuarios.bd no mesmo diretório.
 
 🗃️ Estrutura da Tabela
