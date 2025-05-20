@@ -27,7 +27,7 @@ python crud_sqlite.py
 ```
 O banco de dados será criado automaticamente como crud_usuarios.bd no mesmo diretório.
 
-#🗃️ Estrutura da Tabela
+# 🗃️ Estrutura da Tabela
 O projeto cria automaticamente a tabela usuarios com os seguintes campos:
 
 CREATE TABLE IF NOT EXISTS usuarios (
@@ -44,5 +44,5 @@ nome: Nome do usuário
 
 idade: Idade do usuário
 
-#🎯 Objetivo
+# 🎯 Objetivo
 Este projeto tem fins educacionais e demonstra como utilizar SQLite com Python para construir aplicações com persistência de dados. É uma ótima base para quem deseja evoluir para aplicações mais robustas com interfaces gráficas ou APIs.
